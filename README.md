@@ -1,7 +1,5 @@
 # 使用深度学习来破解 captcha 验证码
-本项目会通过 Tensorflow 搭建一个深度卷积神经网络来识别 captcha 验证码，建议使用显卡来运行该项目。
-
-下面的可视化代码都是在 python 脚本中，当然也可以去掉这些可视化代码。
+基于TensorFlow搭建一个深度卷积神经网络来识别 captcha 验证码，进行验证码的自动生成和训练识别 成功率破 95%以上 台式i5机 训练耗时 2天
 ## Prerequisites:
 
 1. 需要安装Tensorflow以及captcha库
